@@ -1,0 +1,39 @@
+legend{
+    text-align: center;
+    margin: 10px 0;
+}
+
+main{
+    border: 2px solid black;
+    width: 90%;
+    height: 100%;
+    padding: 15px;
+    position: relative;
+    right: 0;
+    left: 0;
+}
+
+textarea{
+    resize: none;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn, input:hover{
+    border: none;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+input{
+    width: 50%;
+}
